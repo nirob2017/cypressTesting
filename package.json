@@ -1,0 +1,27 @@
+{
+  "name": "cypress_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirob2017/cypressTesting.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation"
+  ],
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  },
+  "author": "Md. Monsur Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirob2017/cypressTesting/issues"
+  },
+  "homepage": "https://github.com/nirob2017/cypressTesting#readme"
+}

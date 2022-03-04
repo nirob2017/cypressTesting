@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://partnerforsqa.dev.uniteliving.com/",
+  "viewportWidth": 1250,
+  "viewportHeight": 1200,
+  "defaultCommandTimeout": 15000,
+  "defalutTimeout": 25000,
+  "pageLoadTimeout": 40000,
+  "requestTimeout": 20000,
+  "chromeWebSecurity": false
+}
